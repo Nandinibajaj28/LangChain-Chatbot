@@ -4,7 +4,6 @@ A full-stack AI chatbot built using **LangChain**, **OpenAI**, and **Ollama**, f
 
 This project demonstrates how to combine **cloud LLMs** and **local LLMs** with vector databases for intelligent document-aware responses.
 
----
 
 ## ✨ Features
 
@@ -17,7 +16,6 @@ This project demonstrates how to combine **cloud LLMs** and **local LLMs** with 
 - 🔹 Streamlit interactive UI
 - 🔹 Clean modular project structure
 
----
 
 ## 🧠 Tech Stack
 
