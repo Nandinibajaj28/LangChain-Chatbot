@@ -1,4 +1,4 @@
-# 🤖 LangChain Chatbot with Ollama & RAG
+# 🤖 LangChain Chatbot with Ollama/OpenAI & RAG
 
 A full-stack AI chatbot built using **LangChain**, **OpenAI**, and **Ollama**, featuring **Retrieval-Augmented Generation (RAG)** over PDFs, a **FastAPI backend**, and a **Streamlit frontend**.
 
