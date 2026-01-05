@@ -1,8 +1,9 @@
-# 🤖 LangChain Chatbot with Ollama/OpenAI & RAG
+# 🤖 LangChain Controlled AI Agent with Ollama/OpenAI & RAG
 
-A full-stack AI chatbot built using **LangChain**, **OpenAI**, and **Ollama**, featuring **Retrieval-Augmented Generation (RAG)** over PDFs, a **FastAPI backend**, and a **Streamlit frontend**.
+An experimental LLM-powered AI pipeline built to explore reliable, structured, and production-oriented AI systems using **LangChain**, **OpenAI**, and **Ollama**, featuring **Retrieval-Augmented Generation (RAG)** over PDFs, a **FastAPI backend**, and a **Streamlit frontend**.
 
-This project demonstrates how to combine **cloud LLMs** and **local LLMs** with vector databases for intelligent document-aware responses.
+This project focuses on **control, validation, and extensibility** in AI workflows — moving beyond free-form chatbots toward **AI agents that can safely integrate into real-world systems**.
+Thus demonstrates how to combine **cloud LLMs** and **local LLMs** with vector databases for intelligent document-aware responses.
 
 
 ## ✨ Features
@@ -24,6 +25,7 @@ This project demonstrates how to combine **cloud LLMs** and **local LLMs** with 
 - **Ollama (Gemma, nomic-embed-text)**
 - **OpenAI API**
 - **FAISS / ChromaDB**
+- **Environment-based configuration**
 - **FastAPI**
 - **Streamlit**
 - **PyPDF**
