@@ -8,8 +8,8 @@ Thus demonstrates how to combine **cloud LLMs** and **local LLMs** with vector d
 
 ## ✨ Features
 
-- 🔹 OpenAI-powered essay generation
-- 🔹 Local LLM support using **Ollama (Gemma)**
+ 🔹 OpenAI-powered essay generation
+ 🔹 Local LLM support using **Ollama (Gemma)**
 - 🔹 Local embeddings using **Ollama embeddings**
 - 🔹 PDF-based **RAG (Retrieval-Augmented Generation)**
 - 🔹 Vector storage with **FAISS / Chroma**
